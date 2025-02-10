@@ -17,8 +17,11 @@
 
 ```
 
-[![Linkedin Badge](https://img.shields.io/badge/-sargun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sargun-kohli-b829a61ba/)](https://www.linkedin.com/in/sargun-kohli-b829a61ba/)
-[![Gmail Badge](https://img.shields.io/badge/-sargun.kohli152@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sargun-kohli-b829a61ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sargun-kohli-b829a61ba/" height="30" width="40" /></a>
+<a href="mailto:sargun.kohli152@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Sargun Kohli" height="30" width="40" /></a>
+</p>
 
 
 ## 🛠️ Skills
