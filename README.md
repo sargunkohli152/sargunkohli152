@@ -1,4 +1,4 @@
-#Hey, I'm Sargun!
+# Hey, I'm Sargun!
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 ```ts
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sargun-kohli-b829a61ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sargun-kohli-b829a61ba/" height="30" width="40" /></a>
-<a href="mailto:sargun.kohli152@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Sargun Kohli" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sargun_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sargun_code" height="30" width="40" /></a>
 </p>
 
 
