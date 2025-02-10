@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Sargun%20Kohli&fontAlignY=40&color=gradient)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Hey!+I'm+Sargun+Kohli;Software+Developer;Welcome!+:%29)](https://git.io/typing-svg)
 ```ts
 
@@ -58,15 +58,3 @@
 ## Experiences
  
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,ts,html,css,nodejs,mysql,mongodb,redux,bootstrap,docker,vscode,powershell,bash,git,github,jest,tailwindcss,postgres,express,vercel,reactnative&perline=6)](https://skillicons.dev)
-
-## ⚙️  My GitHub Analytics
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirlucasm&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sirlucasm&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sirlucasm&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sirlucasm&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sirlucasm&theme=github_dark&utcOffset=-3)
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sirlucasm/count.svg?"  />
-</div>
