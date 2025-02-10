@@ -22,11 +22,38 @@
 [![Instagram Badge](https://img.shields.io/badge/@sirlucasm-%23E4405F.svg?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/cleitonnnnnn//)](https://www.instagram.com/sirlucasm/)
 
 
-<div>
- 
-<a height="150em" href="http://www.github.com/sirlucasm"><img height='240em' src='https://github-readme-streak-stats.herokuapp.com?user=sirlucasm&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' /></a>
+## 🛠️ Skills
 
-</div>
+### **Languages**  
+- Java  
+- C++  
+- JavaScript  
+- TypeScript  
+- SQL
+
+### **Frameworks & Libraries**  
+- React.js  
+- React Native  
+- Next.js  
+- Node.js  
+- Express.js  
+- Redux  
+- Tailwind CSS  
+- Material UI
+
+### **Testing Tools**  
+- Jest  
+- Cypress
+
+### **Dev Tools & Other Technologies**  
+- Git  
+- GitHub  
+- Android Studio  
+- Bitbucket  
+- Jira  
+- MongoDB Compass  
+- Postman
+
 
 ## Experiences
  
