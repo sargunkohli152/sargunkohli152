@@ -1,5 +1,4 @@
 ![Banner](bnner.png)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" fill="#ffffff" />
 ```ts
 
   @Controller('users')
@@ -16,7 +15,7 @@
   }
 
 ```
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="hah" />
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/sargun-kohli-b829a61ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sargun-kohli-b829a61ba/" height="30" width="40" /></a>
