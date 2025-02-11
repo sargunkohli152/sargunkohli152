@@ -23,7 +23,7 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
     <div style="width: 10px; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
         <a href="https://medium.com/@sargun.kohli152/whats-new-in-react-19-efff0027da41" target="_blank">
-            <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*pRJy7vK18HG4r3XpK2NUSw.png" alt="Article Thumbnail" style="width: 100%; height: auto;">
+            <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*pRJy7vK18HG4r3XpK2NUSw.png" alt="Article Thumbnail" style="max-width: 100%; height: auto; object-fit: cover;">
         </a>
         <div style="padding: 5px;">
             <h3 style="font-size: 18px; margin: 0 0 10px;">What's New in React 19?</h3>
@@ -32,7 +32,7 @@
     </div>
    <div style="width: 10px; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
         <a href="https://medium.com/@sargun.kohli152/whats-new-in-react-19-efff0027da41" target="_blank">
-            <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*pRJy7vK18HG4r3XpK2NUSw.png" alt="Article Thumbnail" style="width: 100%; height: auto;">
+            <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*pRJy7vK18HG4r3XpK2NUSw.png" alt="Article Thumbnail" style="max-width: 100%; height: auto; object-fit: cover;">
         </a>
         <div style="padding: 5px;">
             <h3 style="font-size: 18px; margin: 0 0 10px;">What's New in React 19?</h3>
