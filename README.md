@@ -20,7 +20,3 @@
  
 [![My Skills](https://skillicons.dev/icons?i=java,c,nextjs,react,js,ts,html,css,nodejs,mysql,mongodb,redux,bootstrap,docker,vscode,powershell,bash,git,github,jest,tailwindcss,postgres,express,reactnative)](https://skillicons.dev)
 
-## Blog Posts
-
-[![Blog Posts](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*pRJy7vK18HG4r3XpK2NUSw.png)](https://medium.com/@sargun.kohli152/whats-new-in-react-19-efff0027da41)
-
